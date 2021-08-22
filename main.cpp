@@ -73,5 +73,6 @@ public:
         };
 int main() {
     std::cout << "Hello, World!" << std::endl;
+        std::cout<<1;
     return 0;
 }
